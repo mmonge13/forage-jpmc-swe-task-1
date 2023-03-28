@@ -67,3 +67,4 @@ if __name__ == "__main__":
         price_a, price_b = prices[stock_a], prices[stock_b]
         ratio = getRatio(price_a, price_b)
         print("Ratio %s" % ratio)
+        
